@@ -1,6 +1,5 @@
 # Markdown-cheatsheet
-## Markdown Syntax
-Short cheatsheet for quick reference.
+Short syntax cheatsheet for quick reference.
 ---
 #### Headers
 `# h1 
